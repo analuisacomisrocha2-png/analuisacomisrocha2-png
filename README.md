@@ -1,6 +1,6 @@
 # Olá, eu sou Ana Luisa
 - 👨🏿‍🏫 Atualmente trabalho como Jovem Aprendiz no Senac DF
-- 🧑🏿‍💻 Trabalho com Figma, Desenvolvimento Front-End, WordPress, PHP, Java, Python e Banco de Dados
+- 🧑🏿‍💻 Trabalho com Figma, Desenvolvimento Front-End, WordPress e Banco de Dados
 - 📽️ Procuro colaborar no desenvolvimento de projetos
 - 🧑🏿‍💻 Aprendo sobre Desenvolvimento de Sistemas
 
