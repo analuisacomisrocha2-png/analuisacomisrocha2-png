@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Somas</title>
+</head>
+<body>
+    <h1>Somas</h1>
+
+    <label for="">Digite o numero1 para somar por numero2:</label>
+    <input type="number" id="somar">
+    <label for="">Digite o numero2 para somar por numero1:</label>
+    <input type="number" id="somar">
+  
+
+    <button onclick="somar()">Clique aqui para somar</button>
+
+    <p id="resultado"></p> 
+    
+    <script>
+        function somar(){
+        let num1 = Number(document.getElementById("num1").value);
+        let num2 = Number(document.getElementById("num2").value);
+
+        document.getElementById("resultado").innerHTML = "Resultado é: " + total; 
+
+        }
+
+    </script>
+</body>
+</html>
